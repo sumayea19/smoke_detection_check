@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2.jpg</filename>
+	<path>C:\Users\ACER\Desktop\Resized\images\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>5</ymin>
+			<xmax>745</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
