@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>315.jpg</filename>
+	<path>F:\Desktop\Thesis\Dataset\final\images\315.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>134</ymin>
+			<xmax>284</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
